@@ -1,0 +1,33 @@
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin: 0 10px;
+}
+
+.home ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.visualizer {
+  margin-top: 20px;
+}
+
+.array-container {
+  height: 500px;
+  padding: 10px;
+}
+
+button {
+  margin: 10px;
+  padding: 5px 10px;
+}
